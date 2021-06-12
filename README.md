@@ -1,9 +1,8 @@
 ## RECRUITMENT TASKS
 
 ### Task 1
-
-Clone the Repository and run
-
+Online - https://autocomplete-input.netlify.app/
+Or clone the repository and run
 ```
 cd task1
 npm install
